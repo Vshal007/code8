@@ -1,0 +1,9 @@
+{
+    "emmet.showSuggestionsAsSnippets": false,
+    "emmet.syntaxProfiles": {
+    
+    },
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    }
+}
